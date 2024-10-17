@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m a passionate computer science student at The National University of Mongolia, currently in my third year. I’m diving deep into web development, mastering technologies like Java, Spring Boot, APIs, Tailwind, JavaScript, HTML, and CSS.
+👋 Hi there! I’m a passionate computer science student, currently in my third year. I’m diving deep into web development, mastering technologies like Java, Spring Boot, APIs, Tailwind, JavaScript, HTML, and CSS.
 
 🚀 In addition to web development, I’m exploring mobile development with Flutter, Kotlin, and Dart. My ambition is to become a game developer, where I can combine my skills and creativity to create immersive experiences.
 
