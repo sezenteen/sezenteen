@@ -4,11 +4,12 @@
 ---
 
 ### 🌟 About Me
-- 🌱 I’m a **third-year computer science student** diving deep into **web development**. 
-- 💻 Mastering technologies like **Java**, **Spring Boot**, **APIs**, **Tailwind**, **JavaScript**, **HTML**, and **CSS**.
+- 🌱 I’m a **third-year computer science student** diving deep into **web development** and exploring **Python** for data science, machine learning, and automation. 
+- 💻 Mastering technologies like **Java**, **Spring Boot**, **APIs**, **Tailwind**, **JavaScript**, **HTML**, **CSS**, and **Python**.
 - 📱 Exploring the world of **mobile development** using **Flutter**, **Kotlin**, and **Dart**.
 - 🎮 Aspiring to combine my passion for coding and creativity into **game development**.  
 - 💡 I enjoy learning **new technologies** and collaborating on **exciting projects**.  
+- 🤖 Passionate about **Prompt Engineering** and leveraging **AI** to build intelligent systems and enhance automation.  
 - 🤝 Always open to **discussions and opportunities**!  
 
 ---
@@ -24,6 +25,7 @@
 
 ### 💻 Tech Stack
 <p align="center">
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -37,6 +39,13 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
+
+---
+
+### 🧑‍💻 Prompt Engineering & AI
+- 💡 Passionate about **Prompt Engineering** and working with cutting-edge **AI models**. I aim to understand how to optimize input to get meaningful results from models like **GPT**, **DALL·E**, and others.
+- 🤖 Exploring the intersection of **machine learning**, **natural language processing**, and **automation** to build innovative solutions.
+- 🛠️ Currently learning how to craft better prompts for use in various domains, including **data analysis**, **content creation**, and **interactive systems**.
 
 ---
 
