@@ -1,6 +1,6 @@
 ### Hi there, I'm Haru! 👋
 
-<img align="right" src="[[https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47inwpvnky7qv0e8p6webbliin90chcrkul1nl6z8c&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47inwpvnky7qv0e8p6webbliin90chcrkul1nl6z8c&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="300" />
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47inwpvnky7qv0e8p6webbliin90chcrkul1nl6z8c&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
 
 🚀 **Full Stack Developer | Open Source Enthusiast | Tech Explorer**
 
