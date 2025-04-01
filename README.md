@@ -1,4 +1,4 @@
-### Hi there, I'm <Your Name>! 👋
+### Hi there, I'm Haru! 👋
 
 <img align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
 
