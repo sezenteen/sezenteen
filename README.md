@@ -1,6 +1,6 @@
 ### Hi there, I'm Haru! 👋
 
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47inwpvnky7qv0e8p6webbliin90chcrkul1nl6z8c&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlnNGQzbjY1MHV3bnlpdzBmeGVmbHp1NHhodTBzZWdhMGJyNzE1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuP4uT4a4XdA5TENZa/giphy.gif" width="300" />
 
 ## 🚀 About Me
 
@@ -52,10 +52,6 @@ I'm a **Full Stack Developer**, **Open Source Enthusiast**, and **Tech Explorer*
 
 Let's connect! Feel free to reach out via the platforms below:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sezenteen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
 ⭐ **Let's build something amazing together!** 🚀
 
