@@ -77,5 +77,3 @@ Beyond coding, I’m an **INTJ** who enjoys **digital art, design, and emerging 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
-⭐ **Let’s build something amazing together!** 🚀  
