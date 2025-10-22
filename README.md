@@ -39,12 +39,25 @@ Beyond coding, I’m an **INTJ** who enjoys **digital art, design, and emerging 
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sezenteen&show_icons=true&theme=radical" alt="Haru's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezenteen&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sezenteen&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezenteen&layout=compact&theme=radical" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sezenteen&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sezenteen&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sezenteen&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
 
 ---
 
