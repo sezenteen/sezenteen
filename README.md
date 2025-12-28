@@ -12,7 +12,7 @@ I love developing **robust backend systems** with `Spring Boot` and designing **
 
 Currently, I’m working on an **e-commerce platform** that focuses on **performance, usability, and elegant design**. My goal is to create software that’s not just functional — but genuinely enjoyable to use.  
 
-Beyond coding, I’m an **INTJ** who enjoys **digital art, design, and emerging technologies**. I’m self-learning `Blender`, `Unity`, `Godot`, and `Phaser.js` to bring creative concepts to life through interactive experiences.  
+Beyond coding, I’m an **INFJ** who enjoys **digital art, design, and emerging technologies**. I’m self-learning `Blender`, `Unity`, `Godot`, and `Phaser.js` to bring creative concepts to life through interactive experiences.  
 
 ---
 
