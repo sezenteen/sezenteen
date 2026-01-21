@@ -44,20 +44,24 @@ Outside of coding, I’m an **INTJ** who enjoys **digital art, visual design, an
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sezenteen&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezenteen&layout=compact&theme=radical" height="165"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Backend%20%7C%20UI%2FUX-8A2BE2?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sezenteen&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sezenteen&theme=radical" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sezenteen&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://img.shields.io/badge/Currently%20Building-E--Commerce%20Platform-FF3E00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Game%20Dev%20%26%203D-00C853?style=for-the-badge" />
 </p>
 
 ---
