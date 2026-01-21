@@ -6,13 +6,13 @@
 
 ## 🌸 About Me  
 
-I’m a **software engineering student** at the *National University of Mongolia* with a strong interest in building **thoughtful, well-crafted digital products**. I care deeply about **clean architecture, performance, and user experience**—because good software should feel effortless to use.  
+I’m a **software engineering student** at the *National University of Mongolia* who enjoys building **thoughtful, well-crafted digital products**. I care deeply about **clean architecture, performance, and user experience**—because good software should feel effortless to use.  
 
-My primary focus is **backend development with Spring Boot**, complemented by **modern, responsive user interfaces** using `React` and `Tailwind CSS`. I enjoy designing systems that are reliable, scalable, and pleasant for both users and developers.  
+My main focus is **backend development with Spring Boot**, paired with **modern, responsive interfaces** using `React` and `Tailwind CSS`. I enjoy designing systems that are not only reliable and scalable, but also pleasant for users and developers alike.  
 
-Recently, I’ve been exploring **game development and 3D design**, blending logic and creativity with tools like `Blender`, `Unity`, `Godot`, and `Phaser.js`. I love turning abstract ideas into interactive experiences.  
+Recently, I’ve been exploring **game development and 3D design**, combining logic with creativity through tools like `Blender`, `Unity`, `Godot`, and `Phaser.js`. I love turning abstract ideas into interactive experiences.  
 
-Currently, I’m building an **e-commerce platform** with a strong emphasis on **performance, usability, and elegant UI design**. My long-term goal is to create software that feels intuitive, polished, and genuinely enjoyable to use.  
+At the moment, I’m working on an **e-commerce platform** with a strong emphasis on **performance, usability, and elegant UI design**. My long-term goal is to create software that feels intuitive, polished, and genuinely enjoyable.  
 
 Outside of coding, I’m an **INTJ** who enjoys **digital art, visual design, and emerging technologies**—always learning, always refining.  
 
@@ -41,27 +41,23 @@ Outside of coding, I’m an **INTJ** who enjoys **digital art, visual design, an
 
 ---
 
-## 📌 Focus & Interests  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Backend%20%7C%20UI%2FUX-8A2BE2?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sezenteen&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezenteen&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://streak-stats.demolab.com?user=sezenteen&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sezenteen&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Building-E--Commerce%20Platform-FF3E00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Game%20Dev%20%26%203D-00C853?style=for-the-badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sezenteen&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -71,7 +67,7 @@ Outside of coding, I’m an **INTJ** who enjoys **digital art, visual design, an
 - 🚀 Curious by nature, always learning and experimenting  
 - 🧩 Enjoy solving complex problems with simple, elegant solutions  
 - 🎮 Love games, sketching, and creative coding  
-- 🌱 Actively learning game engines & 3D workflows  
+- 🌱 Currently diving deeper into game engines & 3D workflows  
 
 ---
 
