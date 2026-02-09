@@ -18,8 +18,6 @@ Outside of coding, I’m an **INTJ** who enjoys **digital art, visual design, an
 
 ---
 
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
