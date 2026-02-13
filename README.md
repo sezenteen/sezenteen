@@ -21,11 +21,6 @@ Outside of coding, I’m an **INTJ** who enjoys **digital art, visual design, an
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sezenteen&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezenteen&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=sezenteen&theme=radical&hide_border=true" />
 </p>
 
