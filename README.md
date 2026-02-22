@@ -26,15 +26,6 @@ Outside of coding, I’m an **INTJ** who enjoys **digital art, visual design, an
 
 ---
 
-## 🌟 Fun Facts  
-
-- 🚀 Curious by nature, always learning and experimenting  
-- 🧩 Enjoy solving complex problems with simple, elegant solutions  
-- 🎮 Love games, sketching, and creative coding  
-- 🌱 Currently diving deeper into game engines & 3D workflows  
-
----
-
 ## 📫 Connect with Me  
 
 <p align="center">
