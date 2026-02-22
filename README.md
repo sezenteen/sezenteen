@@ -24,11 +24,6 @@ Outside of coding, I’m an **INTJ** who enjoys **digital art, visual design, an
   <img src="https://streak-stats.demolab.com?user=sezenteen&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sezenteen&theme=radical" />
-</p>
-
-
 ---
 
 ## 🌟 Fun Facts  
