@@ -26,10 +26,3 @@ Outside of coding, I’m an **INTJ** who enjoys **digital art, visual design, an
 
 ---
 
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="https://instagram.com/sezenteen">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
